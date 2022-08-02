@@ -1,2 +1,2 @@
 
-echo "Welcome to Employee Wage Compautation Problem"::;
+echo "Welcome to Employee Wage Compautation";
